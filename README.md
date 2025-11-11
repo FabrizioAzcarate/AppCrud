@@ -1,5 +1,7 @@
-El trabajo como tal todavia no esta terminado, tuve problemas con la instalacion queriendo ingresar los comandos.
+# AppCrud
+## NOTA: El trabajo como tal no esta terminado, esto debido a problemas con la instalacion al ingresar los comandos. (Versiones incompatibles)
 
+## Lista de comandos ingresados:
 ### npx create-expo-app AppCrud
 ### cd AppCrud
 ### npx expo install expo-sqlite
