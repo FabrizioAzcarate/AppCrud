@@ -1,5 +1,6 @@
 # AppCrud
 ## NOTA: El trabajo como tal no esta terminado, esto debido a problemas con la instalacion al ingresar los comandos. (Versiones incompatibles)
+### Tambien una vez ya instalado todo el problema era por parte del archivo "tsconfig"
 
 ## Lista de comandos ingresados:
 ### npx create-expo-app AppCrud
